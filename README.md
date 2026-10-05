@@ -1,5 +1,5 @@
 delta-demo 
-This is a demo for Git and Github session
+This is a demo for Git and Github session.
 
 
 
